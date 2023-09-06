@@ -14,7 +14,7 @@
 Команда:  
 rsync -a --delete --exclude '.*' --progress --checksum /home/vlad /tmp/backup
 
-![Ссылка на скриншот](https://github.com/AndreyFilon/rsync-task3/blob/main/1.jpg)
+![Ссылка на скриншот](https://github.com/AndreyFilon/rsync-task3/blob/main/2.jpg)
 
 ---
 
