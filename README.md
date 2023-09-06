@@ -11,7 +11,7 @@
 
 ### Ответ:  
 
-Команда:
+Команда:  
 rsync -a --progress --exclude '.*' --checksum /home/vlad /tmp/backup
 
 ![Ссылка на скриншот](https://github.com/AndreyFilon/nginx-haproxy/blob/main/1.4%20stats.jpg)
