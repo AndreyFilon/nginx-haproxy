@@ -11,9 +11,9 @@
 
 ### Ответ:  
 
-![Ссылка на haproxy.cfg](https://github.com/AndreyFilon/nginx-haproxy/blob/main/1.1%20haproxy.cfg)
-![Ссылка на скриншот](https://github.com/AndreyFilon/nginx-haproxy/blob/main/1.2%20check.jpg)
-![Ссылка на скриншот](https://github.com/AndreyFilon/nginx-haproxy/blob/main/1.3%20check2.jpg)
+Команда:
+rsync -a --progress --exclude '.*' --checksum /home/vlad /tmp/backup
+
 ![Ссылка на скриншот](https://github.com/AndreyFilon/nginx-haproxy/blob/main/1.4%20stats.jpg)
 
 ---
