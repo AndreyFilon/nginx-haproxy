@@ -30,7 +30,7 @@ rsync -a --delete --exclude '.*' --progress --checksum /home/vlad /tmp/backup
 
 файл скрипта (https://github.com/AndreyFilon/rsync-task3/blob/main/backup.sh)
 
-![результат выполнения cron по расписанию в 00.00]([https://github.com/AndreyFilon/nginx-haproxy/blob/main/2.2%20haproxy-task2.cfg](https://github.com/AndreyFilon/rsync-task3/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20cron.jpg)https://github.com/AndreyFilon/rsync-task3/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20cron.jpg)
+![результат выполнения cron по расписанию в 00.00](https://github.com/AndreyFilon/rsync-task3/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20cron.jpg)
 
 
 ---
