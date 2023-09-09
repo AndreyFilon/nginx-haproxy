@@ -30,8 +30,7 @@ rsync -a --delete --exclude '.*' --progress --checksum /home/vlad /tmp/backup
 
 файл скрипта (https://github.com/AndreyFilon/rsync-task3/blob/main/backup.sh)
 
-![результат выполнения cron по расписанию в 00.00]
-
+результат выполнения cron по расписанию в 00.00
 ![Ссылка на скриншот](https://github.com/AndreyFilon/rsync-task3/blob/main/result%20cron.jpg)
 ---
 
