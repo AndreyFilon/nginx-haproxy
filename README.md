@@ -28,10 +28,10 @@ rsync -a --delete --exclude '.*' --progress --checksum /home/vlad /tmp/backup
 
 ### Ответ:
 
-скрипт (https://github.com/AndreyFilon/rsync-task3/blob/main/backup.sh)
+файл скрипта (https://github.com/AndreyFilon/rsync-task3/blob/main/backup.sh)
 
-![Ссылка на haproxy.cfg](https://github.com/AndreyFilon/nginx-haproxy/blob/main/2.2%20haproxy-task2.cfg)
-![Ссылка на скриншот](https://github.com/AndreyFilon/nginx-haproxy/blob/main/2.1.png)
+![результат выполнения cron по расписанию в 00.00](https://github.com/AndreyFilon/nginx-haproxy/blob/main/2.2%20haproxy-task2.cfg)
+
 
 ---
 
