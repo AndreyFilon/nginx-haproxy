@@ -28,7 +28,7 @@ rsync -a --delete --exclude '.*' --progress --checksum /home/vlad /tmp/backup
 
 ### Ответ:
 
-#! /bin/sh rsync -a --delete --exclude '.*' --progress --checksum /home/vlad/ /tmp/backup >> /var/log/crontab.log
+скрипт (https://github.com/AndreyFilon/rsync-task3/blob/main/backup.sh)
 
 ![Ссылка на haproxy.cfg](https://github.com/AndreyFilon/nginx-haproxy/blob/main/2.2%20haproxy-task2.cfg)
 ![Ссылка на скриншот](https://github.com/AndreyFilon/nginx-haproxy/blob/main/2.1.png)
